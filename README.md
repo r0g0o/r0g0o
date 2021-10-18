@@ -6,4 +6,4 @@ I am a Business Manager, have 24 years old and learning about Python and WebDeve
 [ES]
 
 Hola mundo, soy Rodrigo Castillo (@r0g0o).
-Soy un Ingeniero Comercial, tengo 24 años y me encuentro aprendiendo sobre Python y desarrollo web.
+Soy un Ingeniero Comercial, tengo 24 años y estoy aprendiendo sobre Python y desarrollo web.
