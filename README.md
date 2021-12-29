@@ -15,8 +15,7 @@ https://github.com/r0g0o/Yinidijiisi_bot
 The last Telegram bot @yinidijiisi_bot, replaces all the vocals of a sentence. Example "hello world" ands like "hilli wirld". Focused for groups and annoy each other.
 
 https://github.com/r0g0o/GDP-PW
-An additional proyect is the web depelopment of https://gdp-fen-pw.netlify.app. Página donde resumí todo el contenido de Gestión de Personas de mi carrera universitaria. Hay un fork con una versión no responsive y otra versión responsive.
-In this page, I summary all the content of People Management in my carrer. There is a fork for a responsive and a no responsive version.
+An additional proyect is the web depelopment of https://gdp-fen-pw.netlify.app. In this page, I summary all the content of People Management in my carrer. There is a fork for a responsive and a no responsive version.
 
 [ES]
 
