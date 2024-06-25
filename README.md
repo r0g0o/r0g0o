@@ -1,7 +1,7 @@
 [EN]
 
 Hello world, I'm Rodrigo Castillo (@r0g0o).
-I am a Business Manager, have 24 years old and learning about Python and WebDevelopment.
+I am a Business Manager, have 27 years old and learning about Python and WebDevelopment.
 
 My proyects are:
 
@@ -20,7 +20,7 @@ An additional proyect is the web depelopment of https://gdp-fen-pw.netlify.app. 
 [ES]
 
 Hola mundo, soy Rodrigo Castillo (@r0g0o).
-Soy un Ingeniero Comercial, tengo 24 años y estoy aprendiendo sobre Python y desarrollo web.
+Soy un Ingeniero Comercial, tengo 27 años y estoy aprendiendo sobre Python y desarrollo web.
 
 Mis proyectos ya realizados son:
 
